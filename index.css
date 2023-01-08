@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: ghostwhite;
+    margin: 50px 50px;
+}
+
+h1{
+    color: #660033;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: darkgrey;
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    color: rgb(255,105,180);
+    text-align: center;
+}
+
+table{
+    border: 5px solid grey;
+    text-align: centerS;
+    margin: 0 auto;
+    width: auto;
+    background-color: white;
+}
+thead{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+td{
+    border: 1px solid grey;
+}
+
+.code{
+    font-family: monospace;
+}
